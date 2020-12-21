@@ -6,7 +6,7 @@ section: contact
 date: 2018-01-01
 permalink: /contact/index.html
 eleventyNavigation:
-  key: Contact
+  key: CONTACT
   order: 3
 ---
 The contact form on this page uses [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process submissions,
